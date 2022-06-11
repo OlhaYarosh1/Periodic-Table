@@ -2,11 +2,16 @@
     width: 895px;
     height: 645px;
     background-color: black;
-    margin: auto;
     position: fixed;
     top: 7%;
     left: 21%;
     box-shadow: 0 5px 15px;
+}
+
+.header-box {
+    width: 895px;
+    height: 65px;
+    background-color: blue;
 }
 
 h1 {

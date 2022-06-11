@@ -1,0 +1,17 @@
+.HorizontalNumbers {
+    margin-top: 0px;
+    background-color: blueviolet;
+    width: 895px;
+    height: 40px;
+    display: inline-grid;
+    color: #fafafa;
+    gap: 40px 34px;
+    font-size: 13.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;  
+}
+
+.item {
+    grid-row-start: 1;
+    grid-row-end: 18;
+}
