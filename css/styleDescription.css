@@ -7,8 +7,8 @@
     display: inline-grid;
     color: #fafafa;
     gap: 40px 34px;
-    font-size: 13.5px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 600;  
 }
 
@@ -22,14 +22,14 @@
 }
 
 .SymbolH {
-    font-size: 50px;
+    font-size: 55px;
     color: #21271f;
     margin-top: -45%;
     margin-left: 46%;
 }
 
 .NameH {
-    font-size: 10.5px;
+    font-size: 12px;
     color: #21271f;
     margin-top: -39%;
     margin-left: 43%;
@@ -37,7 +37,7 @@
 }
 
 .AtomicMassH {
-    font-size: 9.5px;
+    font-size: 11px;
     color: #21271f;
     margin-top: -49%;
     margin-left: 47%;
