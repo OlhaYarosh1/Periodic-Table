@@ -4,7 +4,9 @@
     width: 91.5px;
     height: 338px;
     background-color: black;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: 45.6px 45.6px;
+    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
+    display: inline-grid;
 }
 
 .Elements2 {
@@ -13,6 +15,9 @@
     width: 456px;
     height: 196.5px;
     background-color: black;
+    display: inline-grid;
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
+    grid-template-rows: 48.2px 48.2px 48.2px 48.2px;
 }
 
 .Elements3 {
@@ -21,32 +26,157 @@
     width: 273px;
     height: 338px;
     background-color: black;
+    display: inline-grid;
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
+    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
+    
 }
 
-.ElementsNonmetal {
-    width: 45.4px;
+.Elements  {
+    display: inline-grid;
+    font-size: 23px;
+    color: #1d1f1c;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800; 
+    text-align: center;
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
+    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
+}
+
+.Element1  {
+    grid-area: 1/1/1/1;
+    width: 44px;
     height: 47px;
     background-color: #c665c9;
-    display: inline-grid;
-    font-size: 25px;
-    color: #21271f;
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600; 
-    text-align: center;
 }
 
-.Element1 {
-    margin-top: 12%;
-}
-
-#Name1 {
-    font-size: 5.5px;
+#Name {
+    font-size: 7px;
     font-weight: 900;
-    margin-top: -3px;
 }
 
-#AtomicMass1 {
-    font-size: 5.5px;
-    font-weight: 900;
-    margin-top: -2px;
+.Element6 {
+    grid-area: 2/2/2/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #c665c9;
+}
+
+.Element7 {
+    grid-area: 2/3/2/3;
+    width: 44px;
+    height: 46.5px;
+    background-color: #c665c9;
+}
+
+.Element8 {
+    grid-area: 2/4/2/4;
+    width: 44px;
+    height: 46.5px;
+    background-color: #c665c9;
+}
+
+.Element15 {
+    grid-area: 3/3/3/3;
+    width: 44px;
+    height: 46.5px;
+    background-color: #c665c9;
+}
+
+.Element16 {
+    grid-area: 3/4/3/4;
+    width: 44px;
+    height: 46.5px;
+    background-color: #c665c9;
+}
+
+.Element34 {
+    grid-area: 4/4/4/4;
+    width: 44px;
+    height: 46.5px;
+    background-color: #c665c9;
+}
+
+.Element3 {
+    grid-area: 2/1/2/1;
+    width: 44px;
+    height: 46.5px;
+    background-color: #f94124;
+}
+
+.Element11 {
+    grid-area: 3/1/3/1;
+    width: 44px;
+    height: 46.5px;
+    background-color: #f94124;
+}
+
+.Element19 {
+    grid-area: 4/1/4/1;
+    width: 44px;
+    height: 46.5px;
+    background-color: #f94124;
+}
+
+.Element37 {
+    grid-area: 5/1/5/1;
+    width: 44px;
+    height: 46.5px;
+    background-color: #f94124;
+}
+
+.Element55 {
+    grid-area: 6/1/6/1;
+    width: 44px;
+    height: 46.5px;
+    background-color: #f94124;
+}
+
+.Element87 {
+    grid-area: 7/1/7/1;
+    width: 44px;
+    height: 46.5px;
+    background-color: #f94124;
+}
+
+.Element4 {
+    grid-area: 2/2/2/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #eb9100;
+}
+
+.Element12 {
+    grid-area: 3/2/3/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #eb9100;
+}
+
+.Element20 {
+    grid-area: 4/2/4/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #eb9100;
+}
+
+.Element38 {
+    grid-area: 5/2/5/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #eb9100;
+}
+
+.Element56 {
+    grid-area: 6/2/6/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #eb9100;
+}
+
+.Element88 {
+    grid-area: 7/2/7/2;
+    width: 44px;
+    height: 46.5px;
+    background-color: #eb9100;
 }

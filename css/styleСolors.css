@@ -1,13 +1,18 @@
 .Colors {
     margin-top: -57.2%;
     margin-left: 45.8%;
-    background-color: white;
+    background-color: brown;
     width: 182.4px;
     height: 141px;
     display: inline-grid;
     color: #fafafa;
-    gap: 40px 34px;
-    font-size: 13.5px;
+    font-size: 10px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;  
+    grid-template-rows: 30px 30px 30px 30px 30px;
+}
+
+.AlkaliMetal {
+    margin-left: 6%;
+    margin-top: 5%;
 }
