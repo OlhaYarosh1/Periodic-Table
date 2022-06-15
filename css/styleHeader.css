@@ -20,8 +20,13 @@ h1 {
     font-size: 42px;
     color: #fefefe;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 hr {
     margin-top: -20px;
+    text-align: center;
+    width: 832px;
+    color: #c1c1c1;
+    background-color: #c1c1c1;
 }

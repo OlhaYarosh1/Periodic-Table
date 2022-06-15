@@ -1,4 +1,4 @@
-.Colors {
+.colors {
     margin-top: -57.2%;
     margin-left: 45.8%;
     background-color: black;
@@ -13,13 +13,13 @@
     grid-template-rows: 28.92px 28.92px 28.92px 28.92px 28.92px;
 }
 
-.AlkaliMetal {
+.alkaliMetal {
     margin-top: 9%;
     margin-left: 15%;
     grid-area: 1/1/1/1;
 }
 
-.TriangleAlkaliMetal {
+.triangleAlkaliMetal {
     display: block;
     height: 0;
     width: 0;

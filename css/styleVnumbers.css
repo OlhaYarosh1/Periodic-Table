@@ -1,4 +1,4 @@
-.VerticalNumbers {
+.verticalNumbers {
     background-color: black;
     width: 45px;
     height: 338px;
@@ -12,7 +12,7 @@
     justify-content: center;
 }
 
-.RightBorder {
+.rightBorder {
     margin-top: -57.2%;
     margin-left: 96.8%;
     background-color: black;

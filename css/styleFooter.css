@@ -1,4 +1,4 @@
-.FooterElements {
+.footerElements {
     margin-top: 0px;
     background-color: black;
     width: 895px;
@@ -12,7 +12,7 @@
     grid-template-columns: 45px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px; 
 }
 
-.ElementsF  {
+.elementsF  {
     display: inline-grid;
     font-size: 23px;
     color: #1d1f1c;
@@ -23,12 +23,12 @@
     grid-template-columns: 45px 77.6px 13.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 64.6px; 
 }
 
-#Name {
+.name {
     font-size: 7px;
     font-weight: 900;
 }
 
-#Copyright {
+.copyright {
     color: #fdfdfd;
     font-size: 10px;
     text-align: right;
@@ -38,7 +38,7 @@
     grid-area: 4/19/4/19;
 }
 
-#Label1 {
+.label1 {
     color: #fdfdfd;
     font-size: 11.5px;
     text-align: right;
@@ -48,7 +48,7 @@
     grid-area: 2/2/2/2;
 }
 
-#Label2 {
+.label2 {
     color: #fdfdfd;
     font-size: 11.5px;
     text-align: right;
@@ -58,228 +58,138 @@
     grid-area: 3/2/3/2;
 }
 
-.Element57  {
+.elementsViewF {
+    margin-left: 2px;
+    width: 44.6px;
+    height: 47.2px;  
+}
+
+.actinideSeries {
+    margin-top: 0.6px;
+    background-color: #de536a;
+}
+
+.lathanideSeries {
+    background-color: #5bb1a6;
+}
+
+.element57  {
     grid-area: 2/4/2/4;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element58  {
+.element58  {
     grid-area: 2/5/2/5;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element59  {
+.element59  {
     grid-area: 2/6/2/6;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element60  {
+.element60  {
     grid-area: 2/7/2/7;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element61  {
+.element61  {
     grid-area: 2/8/2/8;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element62  {
+.element62  {
     grid-area: 2/9/2/9;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element63  {
+.element63  {
     grid-area: 2/10/2/10;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element64  {
+.element64  {
     grid-area: 2/11/2/11;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element65  {
+.element65  {
     grid-area: 2/12/2/12;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element66  {
+.element66  {
     grid-area: 2/13/2/13;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element67  {
+.element67  {
     grid-area: 2/14/2/14;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element68  {
+.element68  {
     grid-area: 2/15/2/15;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element69  {
+.element69  {
     grid-area: 2/16/2/16;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element70  {
+.element70  {
     grid-area: 2/17/2/17;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element71  {
+.element71  {
     grid-area: 2/18/2/18;
-    width: 44px;
-    height: 47px;
-    background-color: #5bb1a6;
 }
 
-.Element89  {
-    margin-top: 1px;
+.element89  {
     grid-area: 3/4/3/4;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element90  {
-    margin-top: 1px;
+.element90  {
     grid-area: 3/5/3/5;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element91  {
-    margin-top: 1px;
+.element91  {
     grid-area: 3/6/3/6;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element92  {
-    margin-top: 1px;
+.element92  {
     grid-area: 3/7/3/7;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element93  {
-    margin-top: 1px;
+.element93  {
     grid-area: 3/8/3/8;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element94  {
-    margin-top: 1px;
+.element94  {
     grid-area: 3/9/3/9;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element95  {
-    margin-top: 1px;
+.element95  {
     grid-area: 3/10/3/10;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element96  {
-    margin-top: 1px;
+.element96  {
     grid-area: 3/11/3/11;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element97  {
-    margin-top: 1px;
+.element97  {
     grid-area: 3/12/3/12;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element98  {
-    margin-top: 1px;
+.element98  {
     grid-area: 3/13/3/13;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element99  {
-    margin-top: 1px;
+.element99  {
     grid-area: 3/14/3/14;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element100  {
-    margin-top: 1px;
+.element100  {
     grid-area: 3/15/3/15;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element101  {
-    margin-top: 1px;
+.element101  {
     grid-area: 3/16/3/16;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element102  {
-    margin-top: 1px;
+.element102  {
     grid-area: 3/17/3/17;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
-.Element103  {
-    margin-top: 1px;
+.element103  {
     grid-area: 3/18/3/18;
-    width: 44px;
-    height: 47px;
-    background-color: #de536a;
 }
 
