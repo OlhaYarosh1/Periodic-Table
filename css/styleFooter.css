@@ -12,7 +12,7 @@
     grid-template-columns: 45px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px; 
 }
 
-.elementsF  {
+.elementsF {
     display: inline-grid;
     font-size: 23px;
     color: #1d1f1c;
@@ -73,123 +73,122 @@
     background-color: #5bb1a6;
 }
 
-.element57  {
+.element57 {
     grid-area: 2/4/2/4;
 }
 
-.element58  {
+.element58 {
     grid-area: 2/5/2/5;
 }
 
-.element59  {
+.element59 {
     grid-area: 2/6/2/6;
 }
 
-.element60  {
+.element60 {
     grid-area: 2/7/2/7;
 }
 
-.element61  {
+.element61 {
     grid-area: 2/8/2/8;
 }
 
-.element62  {
+.element62 {
     grid-area: 2/9/2/9;
 }
 
-.element63  {
+.element63 {
     grid-area: 2/10/2/10;
 }
 
-.element64  {
+.element64 {
     grid-area: 2/11/2/11;
 }
 
-.element65  {
+.element65 {
     grid-area: 2/12/2/12;
 }
 
-.element66  {
+.element66 {
     grid-area: 2/13/2/13;
 }
 
-.element67  {
+.element67 {
     grid-area: 2/14/2/14;
 }
 
-.element68  {
+.element68 {
     grid-area: 2/15/2/15;
 }
 
-.element69  {
+.element69 {
     grid-area: 2/16/2/16;
 }
 
-.element70  {
+.element70 {
     grid-area: 2/17/2/17;
 }
 
-.element71  {
+.element71 {
     grid-area: 2/18/2/18;
 }
 
-.element89  {
+.element89 {
     grid-area: 3/4/3/4;
 }
 
-.element90  {
+.element90 {
     grid-area: 3/5/3/5;
 }
 
-.element91  {
+.element91 {
     grid-area: 3/6/3/6;
 }
 
-.element92  {
+.element92 {
     grid-area: 3/7/3/7;
 }
 
-.element93  {
+.element93 {
     grid-area: 3/8/3/8;
 }
 
-.element94  {
+.element94 {
     grid-area: 3/9/3/9;
 }
 
-.element95  {
+.element95 {
     grid-area: 3/10/3/10;
 }
 
-.element96  {
+.element96 {
     grid-area: 3/11/3/11;
 }
 
-.element97  {
+.element97 {
     grid-area: 3/12/3/12;
 }
 
-.element98  {
+.element98 {
     grid-area: 3/13/3/13;
 }
 
-.element99  {
+.element99 {
     grid-area: 3/14/3/14;
 }
 
-.element100  {
+.element100 {
     grid-area: 3/15/3/15;
 }
 
-.element101  {
+.element101 {
     grid-area: 3/16/3/16;
 }
 
-.element102  {
+.element102 {
     grid-area: 3/17/3/17;
 }
 
-.element103  {
+.element103 {
     grid-area: 3/18/3/18;
 }
-

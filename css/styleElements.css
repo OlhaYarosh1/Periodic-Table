@@ -1,60 +1,20 @@
-.Elements1 {
-    margin-top: -37.75%;
+.elementsTable {
     margin-left: 5%;
-    width: 91.5px;
-    height: 338px;
-    background-color: black;
-    grid-template-columns: 45.6px 45.6px;
-    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
-    display: inline-grid;
-    text-align: center;
-}
-
-.Elements2 {
-    margin-top: -21.6%;
-    margin-left: 15.2%;
-    width: 456px;
-    height: 192.5px;
-    background-color: blue;
-    text-align: center;
-    display: inline-grid;
-    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
-    grid-template-rows: 48.2px 48.2px 48.2px 48.2px;
-}
-
-.Elements3 {
-    margin-top: -37.75%;
-    margin-left: 66.15%;
-    width: 273px;
-    height: 338px;
-    background-color: black;
-    text-align: center;
-    display: inline-grid;
-    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
-    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
-    
-}
-
-.ElementsTable {
+    margin-top: -37.8%;
     display: inline-grid;
     font-size: 23px;
     color: #1d1f1c;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 800; 
-    text-align: center;
-    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 
+    45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
     grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
-    gap: 1px 1px;
+    text-align: center;
 }
 
 .elementsView {
-    width: 50px;
-    height: 44.5px;  
-}
-
-.Element1 {
-    grid-area: 1/1/1/1;
-    background-color: #c665c9;
+    width: 44px;
+    height: 46.6px; 
 }
 
 .name {
@@ -62,449 +22,447 @@
     font-weight: 900;
 }
 
-.Element6 {
-    grid-area: 2/2/2/2;
+.elementsNonmetal {
     background-color: #c665c9;
 }
 
-.Element7 {
-    grid-area: 2/3/2/3;
-    background-color: #c665c9;
+.elemetnsAlkaliMetal {
+    background-color: #f94124;
 }
 
-.Element8 {
-    grid-area: 2/4/2/4;
-    background-color: #c665c9;
+.elementsAlkalineEarth {
+    background-color: #eb9100;
 }
 
-.Element15 {
-    grid-area: 3/3/3/3;
-    background-color: #c665c9;
+.element1 {
+    grid-area: 1/1/1/1;
 }
 
-.Element16 {
-    grid-area: 3/4/3/4;
-    background-color: #c665c9;
+.element6 {
+    grid-area: 2/14/2/14;
+}
+
+.element7 {
+    grid-area: 2/15/2/15;
+}
+
+.element8 {
+    grid-area: 2/16/2/16;
+}
+
+.element15 {
+    grid-area: 3/15/3/15;
+}
+
+.element16 {
+    grid-area: 3/16/3/16;
 }
 
 .Element34 {
-    grid-area: 4/4/4/4;
-    background-color: #c665c9;
+    grid-area: 4/16/4/16;
 }
 
 .Element3 {
     grid-area: 2/1/2/1;
-    background-color: #f94124;
 }
 
 .Element11 {
     grid-area: 3/1/3/1;
-    background-color: #f94124;
 }
 
 .Element19 {
     grid-area: 4/1/4/1;
-    background-color: #f94124;
 }
 
 .Element37 {
     grid-area: 5/1/5/1;
-    background-color: #f94124;
 }
 
 .Element55 {
     grid-area: 6/1/6/1;
-    background-color: #f94124;
 }
 
 .Element87 {
     grid-area: 7/1/7/1;
-    background-color: #f94124;
 }
 
 .Element4 {
     grid-area: 2/2/2/2;
-    background-color: #eb9100;
 }
 
 .Element12 {
     grid-area: 3/2/3/2;
-    background-color: #eb9100;
 }
 
 .Element20 {
     grid-area: 4/2/4/2;
-    background-color: #eb9100;
 }
 
 .Element38 {
     grid-area: 5/2/5/2;
-    background-color: #eb9100;
 }
 
 .Element56 {
     grid-area: 6/2/6/2;
-    background-color: #eb9100;
 }
 
 .Element88 {
     grid-area: 7/2/7/2;
-    background-color: #eb9100;
 }
 
 .Element21 {
-    grid-area: 1/1/1/1;
+    grid-area: 4/3/4/3;
     background-color: #fcdd10;
 }
 
 .Element22 {
-    grid-area: 1/2/1/2;
+    grid-area: 4/4/4/4;
     background-color: #fcdd10;
 }
 
 .Element23 {
-    grid-area: 1/3/1/3;
+    grid-area: 4/5/4/5;
     background-color: #fcdd10;
 }
 
 .Element24 {
-    grid-area: 1/4/1/4;
+    grid-area: 4/6/4/6;
     background-color: #fcdd10;
 }
 
 .Element25 {
-    grid-area: 1/5/1/5;
+    grid-area: 4/7/4/7;
     background-color: #fcdd10;
 }
 
 .Element26 {
-    grid-area: 1/6/1/6;
+    grid-area: 4/8/4/8;
     background-color: #fcdd10;
 }
 
 .Element27 {
-    grid-area: 1/7/1/7;
+    grid-area: 4/9/4/9;
     background-color: #fcdd10;
 }
 
 .Element28 {
-    grid-area: 1/8/1/8;
+    grid-area: 4/10/4/10;
     background-color: #fcdd10;
 }
 
 .Element29 {
-    grid-area: 1/9/1/9;
+    grid-area: 4/11/4/11;
     background-color: #fcdd10;
 }
 
 .Element30 {
-    grid-area: 1/10/1/10;
+    grid-area: 4/12/4/12;
     background-color: #fcdd10;
 }
 
 .Element39 {
-    grid-area: 2/1/2/1;
+    grid-area: 5/3/5/3;
     background-color: #fcdd10;
 }
 
 .Element40 {
-    grid-area: 2/2/2/2;
+    grid-area: 5/4/5/4;
     background-color: #fcdd10;
 }
 
 .Element41 {
-    grid-area: 2/3/2/3;
+    grid-area: 5/5/5/5;
     background-color: #fcdd10;
 }
 
 .Element42 {
-    grid-area: 2/4/2/4;
+    grid-area: 5/6/5/6;
     background-color: #fcdd10;
 }
 
 .Element43 {
-    grid-area: 2/5/2/5;
+    grid-area: 5/7/5/7;
     background-color: #fcdd10;
 }
 
 .Element44 {
-    grid-area: 2/6/2/6;
+    grid-area: 5/8/5/8;
     background-color: #fcdd10;
 }
 
 .Element45 {
-    grid-area: 2/7/2/7;
+    grid-area: 5/9/5/9;
     background-color: #fcdd10;
 }
 
 .Element46 {
-    grid-area: 2/8/2/8;
+    grid-area: 5/10/5/10;
     background-color: #fcdd10;
 }
 
 .Element47 {
-    grid-area: 2/9/2/9;
+    grid-area: 5/11/5/11;
     background-color: #fcdd10;
 }
 
 .Element48 {
-    grid-area: 2/10/2/10;
+    grid-area: 5/12/5/12;
     background-color: #fcdd10;
 }
 
 .Element0 {
     font-size: 14px;
-    grid-area: 3/1/3/1;
+    grid-area: 6/3/6/3;
     background-color: #5bb1a6;
 }
 
 .Element00 {
     font-size: 14px;
-    grid-area: 4/1/4/1;
+    grid-area: 7/3/7/3;
     background-color: #de536a;
 }
 
 .Element72 {
-    grid-area: 3/2/3/2;
+    grid-area: 6/4/6/4;
     background-color: #fcdd10;
 }
 
 .Element73 {
-    grid-area: 3/3/3/3;
+    grid-area: 6/5/6/5;
     background-color: #fcdd10;
 }
 
 .Element74 {
-    grid-area: 3/4/3/4;
+    grid-area: 6/6/6/6;
     background-color: #fcdd10;
 }
 
 .Element75 {
-    grid-area: 3/5/3/5;
+    grid-area: 6/7/6/7;
     background-color: #fcdd10;
 }
 
 .Element76 {
-    grid-area: 3/6/3/6;
+    grid-area: 6/8/6/8;
     background-color: #fcdd10;
 }
 
 .Element77 {
-    grid-area: 3/7/3/7;
+    grid-area: 6/9/6/9;
     background-color: #fcdd10;
 }
 
 .Element78 {
-    grid-area: 3/8/3/8;
+    grid-area: 6/10/6/10;
     background-color: #fcdd10;
 }
 
 .Element79 {
-    grid-area: 3/9/3/9;
+    grid-area: 6/11/6/11;
     background-color: #fcdd10;
 }
 
 .Element80 {
-    grid-area: 3/10/3/10;
+    grid-area: 6/12/6/12;
     background-color: #fcdd10;
 }
 
 .Element104 {
-    grid-area: 4/2/4/2;
+    grid-area: 7/4/7/4;
     background-color: #fcdd10;
 }
 
 .Element105 {
-    grid-area: 4/3/4/3;
+    grid-area: 7/5/7/5;
     background-color: #fcdd10;
 }
 
 .Element106 {
-    grid-area: 4/4/4/4;
+    grid-area: 7/6/7/6;
     background-color: #fcdd10;
 }
 
 .Element107 {
-    grid-area: 4/5/4/5;
+    grid-area: 7/7/7/7;
     background-color: #fcdd10;
 }
 
 .Element108 {
-    grid-area: 4/6/4/6;
+    grid-area: 7/8/7/8;
     background-color: #fcdd10;
 }
 
 .Element109 {
-    grid-area: 4/7/4/7;
+    grid-area: 7/9/7/9;
     background-color: #fcdd10;
 }
 
 .Element110 {
-    grid-area: 4/8/4/8;
+    grid-area: 7/10/7/10;
     background-color: #fcdd10;
 }
 
 .Element111 {
-    grid-area: 4/9/4/9;
+    grid-area: 7/11/7/11;
     background-color: #fcdd10;
 }
 
 .Element112 {
-    grid-area: 4/10/4/10;
+    grid-area: 7/12/7/12;
     background-color: #fcdd10;
 }
 
 .Element2 {
-    grid-area: 1/6/1/6;
+    grid-area: 1/18/1/18;
     background-color: #c49754;
 }
 
 .Element10 {
-    grid-area: 2/6/2/6;
+    grid-area: 2/18/2/18;
     background-color: #c49754;
 }
 
 .Element18 {
-    grid-area: 3/6/3/6;
+    grid-area: 3/18/3/18;
     background-color: #c49754;
 }
 
 .Element36 {
-    grid-area: 4/6/4/6;
+    grid-area: 4/18/4/18;
     background-color: #c49754;
 }
 
 .Element54 {
-    grid-area: 5/6/5/6;
+    grid-area: 5/18/5/18;
     background-color: #c49754;
 }
 
 .Element86 {
-    grid-area: 6/6/6/6;
+    grid-area: 6/18/6/18;
     background-color: #c49754;
 }
 
 .Element118 {
-    grid-area: 7/6/7/6;
+    grid-area: 7/18/7/18;
     background-color: #c49754;
 }
 
 .Element5 {
-    grid-area: 2/1/2/1;
+    grid-area: 2/13/2/13;
     background-color: #0dc9e6;
 }
 
 .Element14 {
-    grid-area: 3/2/3/2;
+    grid-area: 3/14/3/14;
     background-color: #0dc9e6;
 }
 
 .Element32 {
-    grid-area: 4/2/4/2;
+    grid-area: 4/14/4/14;
     background-color: #0dc9e6;
 }
 
 .Element33 {
-    grid-area: 4/3/4/3;
+    grid-area: 4/15/4/15;
     background-color: #0dc9e6;
 }
 
 .Element51 {
-    grid-area: 5/3/5/3;
+    grid-area: 5/15/5/15;
     background-color: #0dc9e6;
 }
 
 .Element52 {
-    grid-area: 5/4/5/4;
+    grid-area: 5/16/5/16;
     background-color: #0dc9e6;
 }
 
 .Element84 {
-    grid-area: 6/4/6/4;
+    grid-area: 6/16/6/16;
     background-color: #0dc9e6;
 }
 
 .Element9 {
-    grid-area: 2/5/2/5;
+    grid-area: 2/17/2/17;
     background-color: #f20a70;
 }
 
 .Element17 {
-    grid-area: 3/5/3/5;
+    grid-area: 3/17/3/17;
     background-color: #f20a70;
 }
 
 .Element35 {
-    grid-area: 4/5/4/5;
+    grid-area: 4/17/4/17;
     background-color: #f20a70;
 }
 
 .Element53 {
-    grid-area: 5/5/5/5;
+    grid-area: 5/17/5/17;
     background-color: #f20a70;
 }
 
 .Element85 {
-    grid-area: 6/5/6/5;
+    grid-area: 6/17/6/17;
     background-color: #f20a70;
 }
 
 .Element117 {
-    grid-area: 7/5/7/5;
+    grid-area: 7/17/7/17;
     background-color: #f20a70;
 }
 
 .Element13 {
-    grid-area: 3/1/3/1;
+    grid-area: 3/13/3/13;
     background-color: #89d01c;
 }
 
 .Element31 {
-    grid-area: 4/1/4/1;
+    grid-area: 4/13/4/13;
     background-color: #89d01c;
 }
 
 .Element49 {
-    grid-area: 5/1/5/1;
+    grid-area: 5/13/5/13;
     background-color: #89d01c;
 }
 
 .Element50 {
-    grid-area: 5/2/5/2;
+    grid-area: 5/14/5/14;
     background-color: #89d01c;
 }
 
 .Element81 {
-    grid-area: 6/1/6/1;
+    grid-area: 6/13/6/13;
     background-color: #89d01c;
 }
 
 .Element82 {
-    grid-area: 6/2/6/2;
+    grid-area: 6/14/6/14;
     background-color: #89d01c;
 }
 
 .Element83 {
-    grid-area: 6/3/6/3;
+    grid-area: 6/15/6/15;
     background-color: #89d01c;
 }
 
 .Element113 {
-    grid-area: 7/1/7/1;
+    grid-area: 7/13/7/13;
     background-color: #89d01c;
 }
 
 .Element114 {
-    grid-area: 7/2/7/2;
+    grid-area: 7/14/7/14;
     background-color: #89d01c;
 }
 
 .Element115 {
-    grid-area: 7/3/7/3;
+    grid-area: 7/15/7/15;
     background-color: #89d01c;
 }
 
 .Element116 {
-    grid-area: 7/4/7/4;
+    grid-area: 7/16/7/16;
     background-color: #89d01c;
 }
