@@ -9,24 +9,126 @@
     font-size: 9.5px;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 600;  
-    grid-template-columns: 91.2px 91.2px;
-    grid-template-rows: 28.92px 28.92px 28.92px 28.92px 28.92px;
+    grid-template-columns: 106.2px 96.2px;
+    grid-template-rows: 24.6px 24.6px 24.6px 24.6px 24.6px 21.6px;
 }
 
-.alkaliMetal {
-    margin-top: 9%;
-    margin-left: 15%;
-    grid-area: 1/1/1/1;
-}
-
-.triangleAlkaliMetal {
+.triangleleft {
     display: block;
     height: 0;
     width: 0;
     border: 12px solid transparent;
     transform: rotate(135deg);
-    grid-area: 1/1/1/1;
-    border-top-color: #f94124;
+    margin-top: -11%;
+    margin-left: -10.5%;
+}
+
+.triangleright {
+    display: block;
+    height: 0;
+    width: 0;
+    border: 12px solid transparent;
+    transform: rotate(135deg);
     margin-top: -12%;
     margin-left: -10.5%;
+}
+
+.labelleft {
+    margin-top: 6.5%;
+    margin-left: 10.5%;
+}
+
+.labelright {
+    margin-top: 8.2%;
+    margin-left: 13%;
+}
+
+.alkaliMetal {
+    grid-area: 1/1/1/1;
+}
+
+.alkalineEarth {
+    grid-area: 2/1/2/1;
+}
+
+.transitionMetal {
+    grid-area: 3/1/3/1;
+}
+
+.basicMetal {
+    grid-area: 4/1/4/1;
+}
+
+.semimetal {
+    grid-area: 5/1/5/1;
+}
+
+.nonmetal {
+    grid-area: 1/2/1/2;
+}
+
+.halogen {
+    grid-area: 2/2/2/2;
+}
+
+.nobleGas {
+    grid-area: 3/2/3/2;
+}
+
+.lanthanide {
+    grid-area: 4/2/4/2;
+}
+
+.actinide {
+    grid-area: 5/2/5/2;
+}
+
+.triangleAlkaliMetal {
+    grid-area: 1/1/1/1;
+    border-top-color: #f94124;
+}
+
+.triangleAlkalineEarth {
+    grid-area: 2/1/2/1;
+    border-top-color: #eb9100;
+}
+
+.triangleTransitionMetal {
+    grid-area: 3/1/3/1;
+    border-top-color: #fcdd10;
+}
+
+.triangleBasicMetal {
+    grid-area: 4/1/4/1;
+    border-top-color: #89d01c;
+}
+
+.triangleSemimetal {
+    grid-area: 5/1/5/1;
+    border-top-color: #0dc9e6;
+}
+
+.triangleNonmetal {
+    grid-area: 1/2/1/2;
+    border-top-color: #c665c9;
+}
+
+.triangleHalogen {
+    grid-area: 2/2/2/2;
+    border-top-color: #f20a70;
+}
+
+.triangleNobleGas {
+    grid-area: 3/2/3/2;
+    border-top-color: #c49754;
+}
+
+.triangleLanthanide {
+    grid-area: 4/2/4/2;
+    border-top-color: #5bb1a6;
+}
+
+.triangleActinide {
+    grid-area: 5/2/5/2;
+    border-top-color: #de536a;
 }
