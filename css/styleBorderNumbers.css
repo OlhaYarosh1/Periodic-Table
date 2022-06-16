@@ -20,6 +20,56 @@
     margin-left: -3px;
 }
 
+.footerNumbers {
+    margin-top: 67%;
+    margin-left: 0.5%;
+}
+
+.footerANumbers {
+    margin-top: 32%;
+    margin-left: 0.5%;
+}
+
+.borderNonmetal {
+    border-top-color: #e3b3dd;
+}
+
+.borderNobleGas {
+    border-top-color: #d6c59a;
+}
+
+.borderAlkaliMetal {
+    border-top-color: #faa590;
+}
+
+.borderAlkalineEarth {
+    border-top-color: #ffd18d;
+}
+
+.borderTransitionMetal {
+    border-top-color: #ffff94;
+}
+
+.borderLanthanide {
+    border-top-color: #bae5dc;
+}
+
+.borderActinide {
+    border-top-color: #f5b8c7;
+}
+
+.borderHalogen {
+    border-top-color: #f684b7;
+}
+
+.borderSemimetal {
+    border-top-color: #7eeaec;
+}
+
+.borderBasicMetal {
+    border-top-color: #c3eba5;
+}
+
 .numbers {
     font-size: 7.5px;
     transform: rotate(-45deg);
@@ -49,22 +99,18 @@
 }
 
 .borderNumber1 {
-    border-top-color: #e3b3dd;
     grid-area: 1/1/1/1;
 }
 
 .borderNumber2 {
-    border-top-color: #d6c59a;
     grid-area: 1/18/1/18;
 }
 
 .borderNumber3 {
-    border-top-color: #faa590;
     grid-area: 2/1/2/1;
 }
 
 .borderNumber4 {
-    border-top-color: #ffd18d;
     grid-area: 2/2/2/2;
 }
 
@@ -74,106 +120,453 @@
 }
 
 .borderNumber6 {
-    border-top-color: #e3b3dd;
     grid-area: 2/14/2/14;
 }
 
 .borderNumber7 {
-    border-top-color: #e3b3dd;
     grid-area: 2/15/2/15;
 }
 
 .borderNumber8 {
-    border-top-color: #e3b3dd;
     grid-area: 2/16/2/16;
 }
 
 .borderNumber9 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 2/17/2/17;
 }
 
 .borderNumber10 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 2/18/2/18;
 }
 
 .borderNumber11 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/1/3/1;
 }
 
 .borderNumber12 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/2/3/2;
 }
 
 .borderNumber13 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/13/3/13;
 }
 
 .borderNumber14 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/14/3/14;
 }
 
 .borderNumber15 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/15/3/15;
 }
 
 .borderNumber16 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/16/3/16;
 }
 
 .borderNumber17 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/17/3/17;
 }
 
 .borderNumber18 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 3/18/3/18;
 }
 
 .borderNumber19 {
-    border-top-color: #faa590;
     grid-area: 4/1/4/1;
 }
 
 .borderNumber20 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/2/4/2;
 }
 
 .borderNumber21 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/3/4/3;
 }
 
 .borderNumber22 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/4/4/4;
 }
 
 .borderNumber23 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/5/4/5;
 }
 
 .borderNumber24 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/6/4/6;
 }
 
 .borderNumber25 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/7/4/7;
 }
 
 .borderNumber26 {
-    border-top-color: #faa590;
-    grid-area: 4/1/4/1;
+    grid-area: 4/8/4/8;
+}
+
+.borderNumber27 {
+    grid-area: 4/9/4/9;
+}
+
+.borderNumber28 {
+    grid-area: 4/10/4/10;
+}
+
+.borderNumber29 {
+    grid-area: 4/11/4/11;
+}
+
+.borderNumber30 {
+    grid-area: 4/12/4/12;
+}
+
+.borderNumber31 {
+    grid-area: 4/13/4/13;
+}
+
+.borderNumber32 {
+    grid-area: 4/14/4/14;
+}
+
+.borderNumber33 {
+    grid-area: 4/15/4/15;
+}
+
+.borderNumber34 {
+    grid-area: 4/16/4/16;
+}
+
+.borderNumber35 {
+    grid-area: 4/17/4/17;
+}
+
+.borderNumber36 {
+    grid-area: 4/18/4/18;
+}
+
+.borderNumber37 {
+    grid-area: 5/1/5/1;
+}
+
+.borderNumber38 {
+    grid-area: 5/2/5/2;
+}
+
+.borderNumber39 {
+    grid-area: 5/3/5/3;
+}
+
+.borderNumber40 {
+    grid-area: 5/4/5/4;
+}
+
+.borderNumber41 {
+    grid-area: 5/5/5/5;
+}
+
+.borderNumber42 {
+    grid-area: 5/6/5/6;
+}
+
+.borderNumber43 {
+    grid-area: 5/7/5/7;
+}
+
+.borderNumber44 {
+    grid-area: 5/8/5/8;
+}
+
+.borderNumber45 {
+    grid-area: 5/9/5/9;
+}
+
+.borderNumber46 {
+    grid-area: 5/10/5/10;
+}
+
+.borderNumber47 {
+    grid-area: 5/11/5/11;
+}
+
+.borderNumber48 {
+    grid-area: 5/12/5/12;
+}
+
+.borderNumber49 {
+    grid-area: 5/13/5/13;
+}
+
+.borderNumber50 {
+    grid-area: 5/14/5/14;
+}
+
+.borderNumber51 {
+    grid-area: 5/15/5/15;
+}
+
+.borderNumber52 {
+    grid-area: 5/16/5/16;
+}
+
+.borderNumber53 {
+    grid-area: 5/17/5/17;
+}
+
+.borderNumber54 {
+    grid-area: 5/18/5/18;
+}
+
+.borderNumber55 {
+    grid-area: 6/1/6/1;
+}
+
+.borderNumber56 {
+    grid-area: 6/2/6/2;
+}
+
+.borderNumber57 {
+    grid-area: 8/3/8/3;
+}
+
+.borderNumber58 {
+    grid-area: 8/4/8/4;
+}
+
+.borderNumber59 {
+    grid-area: 8/5/8/5;
+}
+
+.borderNumber60 {
+    grid-area: 8/6/8/6;
+}
+
+.borderNumber61 {
+    grid-area: 8/7/8/7;
+}
+
+.borderNumber62 {
+    grid-area: 8/8/8/8;
+}
+
+.borderNumber63 {
+    grid-area: 8/9/8/9;
+}
+
+.borderNumber64 {
+    grid-area: 8/10/8/10;
+}
+
+.borderNumber65 {
+    grid-area: 8/11/8/11;
+}
+
+.borderNumber66 {
+    grid-area: 8/12/8/12;
+}
+
+.borderNumber67 {
+    grid-area: 8/13/8/13;
+}
+
+.borderNumber68 {
+    grid-area: 8/14/8/14;
+}
+
+.borderNumber69 {
+    grid-area: 8/15/8/15;
+}
+
+.borderNumber70 {
+    grid-area: 8/16/8/16;
+}
+
+.borderNumber71 {
+    grid-area: 8/17/8/17;
+}
+
+.borderNumber72 {
+    grid-area: 6/4/6/4;
+}
+
+.borderNumber73 {
+    grid-area: 6/5/6/5;
+}
+
+.borderNumber74 {
+    grid-area: 6/6/6/6;
+}
+
+.borderNumber75 {
+    grid-area: 6/7/6/7;
+}
+
+.borderNumber76 {
+    grid-area: 6/8/6/8;
+}
+
+.borderNumber77 {
+    grid-area: 6/9/6/9;
+}
+
+.borderNumber78 {
+    grid-area: 6/10/6/10;
+}
+
+.borderNumber79 {
+    grid-area: 6/11/6/11;
+}
+
+.borderNumber80 {
+    grid-area: 6/12/6/12;
+}
+
+.borderNumber81 {
+    grid-area: 6/13/6/13;
+}
+
+.borderNumber82 {
+    grid-area: 6/14/6/14;
+}
+
+.borderNumber83 {
+    grid-area: 6/15/6/15;
+}
+
+.borderNumber84 {
+    grid-area: 6/16/6/16;
+}
+
+.borderNumber85 {
+    grid-area: 6/17/6/17;
+}
+
+.borderNumber86 {
+    grid-area: 6/18/6/18;
+}
+
+.borderNumber87 {
+    grid-area: 7/1/7/1;
+}
+
+.borderNumber88 {
+    grid-area: 7/2/7/2;
+}
+
+.borderNumber89 {
+    grid-area: 9/3/9/3;
+}
+
+.borderNumber90 {
+    grid-area: 9/4/9/4;
+}
+
+.borderNumber91 {
+    grid-area: 9/5/9/5;
+}
+
+.borderNumber92 {
+    grid-area: 9/6/9/6;
+}
+
+.borderNumber93 {
+    grid-area: 9/7/9/7;
+}
+
+.borderNumber94 {
+    grid-area: 9/8/9/8;
+}
+
+.borderNumber95 {
+    grid-area: 9/9/9/9;
+}
+
+.borderNumber96 {
+    grid-area: 9/10/9/10;
+}
+
+.borderNumber97 {
+    grid-area: 9/11/9/11;
+}
+
+.borderNumber98 {
+    grid-area: 9/12/9/12;
+}
+
+.borderNumber99 {
+    grid-area: 9/13/9/13;
+}
+
+.borderNumber100 {
+    grid-area: 9/14/9/14;
+}
+
+.borderNumber101 {
+    grid-area: 9/15/9/15;
+}
+
+.borderNumber102 {
+    grid-area: 9/16/9/16;
+}
+
+.borderNumber103 {
+    grid-area: 9/17/9/17;
+}
+
+.borderNumber104 {
+    grid-area: 7/4/7/4;
+}
+
+.borderNumber105 {
+    grid-area: 7/5/7/5;
+}
+
+.borderNumber106 {
+    grid-area: 7/6/7/6;
+}
+
+.borderNumber107 {
+    grid-area: 7/7/7/7;
+}
+
+.borderNumber108 {
+    grid-area: 7/8/7/8;
+}
+
+.borderNumber109 {
+    grid-area: 7/9/7/9;
+}
+
+.borderNumber110 {
+    grid-area: 7/10/7/10;
+}
+
+.borderNumber111 {
+    grid-area: 7/11/7/11;
+}
+
+.borderNumber112 {
+    grid-area: 7/12/7/12;
+}
+
+.borderNumber113 {
+    grid-area: 7/13/7/13;
+}
+
+.borderNumber114 {
+    grid-area: 7/14/7/14;
+}
+
+.borderNumber115 {
+    grid-area: 7/15/7/15;
+}
+
+.borderNumber116 {
+    grid-area: 7/16/7/16;
+}
+
+.borderNumber117 {
+    grid-area: 7/17/7/17;
+}
+
+.borderNumber118 {
+    grid-area: 7/18/7/18;
 }
