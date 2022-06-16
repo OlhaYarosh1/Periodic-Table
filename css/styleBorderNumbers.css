@@ -6,9 +6,8 @@
     color: #1d1f1c;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 800; 
-    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 
-    45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
-    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px;
+    grid-template-columns: repeat(18,45.6px);
+    grid-template-rows: repeat(7,48.2px);
 }
 
 .borderNumbers {
