@@ -30,12 +30,12 @@
 
 .copyright {
     color: #fdfdfd;
-    font-size: 10px;
+    font-size: 20px;
     text-align: right;
-    margin-left: -20px;
-    margin-top: 30%;
+    margin-left: -40px;
+    margin-top: 10%;
     font-weight: 100;
-    grid-area: 4/19/4/19;
+    grid-area: 4/16/4/19;
 }
 
 .label1 {

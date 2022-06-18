@@ -10,6 +10,61 @@
     grid-template-rows: repeat(7,48.2px);
 }
 
+.atomicNumberA {
+    font-size: 12px;
+    font-weight: 100;
+    grid-area: 2/4/2/4;
+    color: #fafafa;
+    margin-top: -12px;
+}
+
+.atomicNumberN {
+    font-size: 12px;
+    font-weight: 100;
+    grid-area: 2/4/2/4;
+    color: #fafafa;
+    margin-top: -1px;
+    margin-left: -5px;
+}
+
+.atomicSymbol {
+    font-size: 12px;
+    font-weight: 100;
+    grid-area: 3/4/3/4;
+    color: #fafafa;
+    text-align: right;
+    margin-top: -25px;
+    margin-right: 10px;
+}
+
+.atomicName {
+    font-size: 12px;
+    font-weight: 100;
+    text-align: left;
+    grid-area: 3/8/3/8;
+    color: #fafafa;
+}
+
+.atomicMass {
+    margin-right: 10px;
+    font-size: 12px;
+    font-weight: 100;
+    text-align: right;
+    grid-area: 3/4/3/4;
+    color: #fafafa;
+    margin-top: 14px;
+}
+
+.number1H {
+    grid-area: 1/5/1/5;
+    font-size: 15px;
+    transform: rotate(-45deg);
+    color:#1d1f1c ;
+    margin-top: 30px;
+    margin-left: 8px;
+    text-align: center;
+}
+
 .borderNumbers {
     display: block;
     height: 0;
@@ -80,12 +135,14 @@
 
 .numbersL {
     margin-top: 34px;
-    margin-left: 43px;
+    margin-left: 41px;
+    text-align: center;
 }
 
 .numbersA {
     margin-top: -38px;
-    margin-left: 48px;
+    margin-left: 47.5px;
+    text-align: center;
 }
 
 .number1 {

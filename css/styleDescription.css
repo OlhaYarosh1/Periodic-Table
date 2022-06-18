@@ -12,6 +12,34 @@
     font-weight: 600;  
 }
 
+.hrA {
+    margin-top: -244px;
+    margin-left: 75px;
+    font-size: 3px;
+    color: #ffffff;
+}
+
+.hrS {
+    margin-top: -249px;
+    margin-left: 78px;
+    font-size: 3px;
+    color: #ffffff;
+}
+
+.hrN {
+    margin-top: -263px;
+    margin-left: 168px;
+    font-size: 3px;
+    color: #ffffff;
+}
+
+.hrM {
+    margin-top: -289px;
+    margin-left: 78px;
+    font-size: 3px;
+    color: #ffffff;
+}
+
 .cell {
     width: 90px;
     height: 95px;
