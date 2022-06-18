@@ -2,10 +2,11 @@
     width: 895px;
     height: 645px;
     background-color: black;
-    margin: auto;
-    position: fixed;
-    top: 7%;
-    left: 21%;
+    margin: 0 auto;
+    position: absolute;
+    top: calc(50% - 322.5px);
+    left: 0;
+    right: 0;
     box-shadow: 0 5px 15px;
     display: inline-grid;
 }

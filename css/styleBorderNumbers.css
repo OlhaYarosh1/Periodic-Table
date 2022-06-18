@@ -10,14 +10,27 @@
     grid-template-rows: repeat(7,48.2px);
 }
 
+.trianglesGridF {
+    margin-left: 4%;
+    margin-top: 764%;
+    display: inline-grid;
+    font-size: 23px;
+    color: #1d1f1c;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800; 
+    grid-template-rows: 30.2px 48.2px 48.2px;
+    grid-template-columns: 50px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 
+    45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 64.6px; 
+}
+
 .copyright {
-    color: white;
+    color: #fafafa;
     font-size: 10px;
     text-align: right;
-    margin-left: -80px;
-    margin-top: 550%;
+    margin-left: 0px;
+    margin-top: 230%;
     font-weight: 100;
-    grid-area: 7/19/7/19;
+    grid-area: 7/17/7/19;
 }
 
 .atomicNumberA {
@@ -85,12 +98,12 @@
 }
 
 .footerNumbers {
-    margin-top: 67%;
-    margin-left: 0.5%;
+    margin-top: 0%;
+    margin-left: 0%;
 }
 
 .footerANumbers {
-    margin-top: -90%;
+    margin-top: 0%;
     margin-left: 0px;
 }
 
@@ -116,10 +129,14 @@
 
 .borderLanthanide {
     border-top-color: #bae5dc;
+    margin-left: -10.5px;
+    margin-top: -11px;
 }
 
 .borderActinide {
     border-top-color: #f5b8c7;
+    margin-left: -10.5px;
+    margin-top: -10px;
 }
 
 .borderHalogen {
@@ -135,23 +152,24 @@
 }
 
 .numbers {
-    font-size: 7.5px;
-    transform: rotate(-45deg);
+    font-size: 7px;
+    transform: rotate(-42deg);
     color:#1d1f1c ;
     margin-top: 9px;
-    margin-left: 6px;
+    margin-left: 4px;
     text-align: center;
+    grid-template-rows: 30.2px 48.2px 48.2px;
 }
 
 .numbersL {
-    margin-top: 34px;
-    margin-left: 41px;
+    margin-top: -2px;
+    margin-left: -3px;
     text-align: center;
 }
 
 .numbersA {
-    margin-top: -38px;
-    margin-left: 47.5px;
+    margin-top: -2px;
+    margin-left: -3px;
     text-align: center;
 }
 
@@ -379,63 +397,63 @@
 }
 
 .number57 {
-    grid-area: 8/3/8/3;
+    grid-area: 2/2/2/2;
 }
 
 .number58 {
-    grid-area: 8/4/8/4;
+    grid-area: 2/3/2/3;
 }
 
 .number59 {
-    grid-area: 8/5/8/5;
+    grid-area: 2/4/2/4;
 }
 
 .number60 {
-    grid-area: 8/6/8/6;
+    grid-area: 2/5/2/5;
 }
 
 .number61 {
-    grid-area: 8/7/8/7;
+    grid-area: 2/6/2/6;
 }
 
 .number62 {
-    grid-area: 8/8/8/8;
+    grid-area: 2/7/2/7;
 }
 
 .number63 {
-    grid-area: 8/9/8/9;
+    grid-area: 2/8/2/8;
 }
 
 .number64 {
-    grid-area: 8/10/8/10;
+    grid-area: 2/9/2/9;
 }
 
 .number65 {
-    grid-area: 8/11/8/11;
+    grid-area: 2/10/2/10;
 }
 
 .number66 {
-    grid-area: 8/12/8/12;
+    grid-area: 2/11/2/11;
 }
 
 .number67 {
-    grid-area: 8/13/8/13;
+    grid-area: 2/12/2/12;
 }
 
 .number68 {
-    grid-area: 8/14/8/14;
+    grid-area: 2/13/2/13;
 }
 
 .number69 {
-    grid-area: 8/15/8/15;
+    grid-area: 2/14/2/14;
 }
 
 .number70 {
-    grid-area: 8/16/8/16;
+    grid-area: 2/15/2/15;
 }
 
 .number71 {
-    grid-area: 8/17/8/17;
+    grid-area: 2/16/2/16;
 }
 
 .number72 {
@@ -507,63 +525,63 @@
 }
 
 .number89 {
-    grid-area: 9/3/9/3;
+    grid-area: 3/2/3/2;
 }
 
 .number90 {
-    grid-area: 9/4/9/4;
+    grid-area: 3/3/3/3;
 }
 
 .number91 {
-    grid-area: 9/5/9/5;
+    grid-area: 3/4/3/4;
 }
 
 .number92 {
-    grid-area: 9/6/9/6;
+    grid-area: 3/5/3/5;
 }
 
 .number93 {
-    grid-area: 9/7/9/7;
+    grid-area: 3/6/3/6;
 }
 
 .number94 {
-    grid-area: 9/8/9/8;
+    grid-area: 3/7/3/7;
 }
 
 .number95 {
-    grid-area: 9/9/9/9;
+    grid-area: 3/8/3/8;
 }
 
 .number96 {
-    grid-area: 9/10/9/10;
+    grid-area: 3/9/3/9;
 }
 
 .number97 {
-    grid-area: 9/11/9/11;
+    grid-area: 3/10/3/10;
 }
 
 .number98 {
-    grid-area: 9/12/9/12;
+    grid-area: 3/11/3/11;
 }
 
 .number99 {
-    grid-area: 9/13/9/13;
+    grid-area: 3/12/3/12;
 }
 
 .number100 {
-    grid-area: 9/14/9/14;
+    grid-area: 3/13/3/13;
 }
 
 .number101 {
-    grid-area: 9/15/9/15;
+    grid-area: 3/14/3/14;
 }
 
 .number102 {
-    grid-area: 9/16/9/16;
+    grid-area: 3/15/3/15;
 }
 
 .number103 {
-    grid-area: 9/17/9/17;
+    grid-area: 3/16/3/16;
 }
 
 .number104 {
@@ -643,7 +661,6 @@
 }
 
 .borderNumber5 {
-    border-top-color: #7eeaec;
     grid-area: 2/13/2/13;
 }
 
@@ -669,34 +686,42 @@
 
 .borderNumber11 {
     grid-area: 3/1/3/1;
+    margin-top: -0.5px;
 }
 
 .borderNumber12 {
     grid-area: 3/2/3/2;
+    margin-top: -0.5px;
 }
 
 .borderNumber13 {
     grid-area: 3/13/3/13;
+    margin-top: -0.5px;
 }
 
 .borderNumber14 {
     grid-area: 3/14/3/14;
+    margin-top: -0.5px;
 }
 
 .borderNumber15 {
     grid-area: 3/15/3/15;
+    margin-top: -0.5px;
 }
 
 .borderNumber16 {
     grid-area: 3/16/3/16;
+    margin-top: -0.5px;
 }
 
 .borderNumber17 {
     grid-area: 3/17/3/17;
+    margin-top: -0.5px;
 }
 
 .borderNumber18 {
     grid-area: 3/18/3/18;
+    margin-top: -0.5px;
 }
 
 .borderNumber19 {
@@ -852,63 +877,63 @@
 }
 
 .borderNumber57 {
-    grid-area: 8/3/8/3;
+    grid-area: 2/2/2/2;
 }
 
 .borderNumber58 {
-    grid-area: 8/4/8/4;
+    grid-area: 2/3/2/3;
 }
 
 .borderNumber59 {
-    grid-area: 8/5/8/5;
+    grid-area: 2/4/2/4;
 }
 
 .borderNumber60 {
-    grid-area: 8/6/8/6;
+    grid-area: 2/5/2/5;
 }
 
 .borderNumber61 {
-    grid-area: 8/7/8/7;
+    grid-area: 2/6/2/6;
 }
 
 .borderNumber62 {
-    grid-area: 8/8/8/8;
+    grid-area: 2/7/2/7;
 }
 
 .borderNumber63 {
-    grid-area: 8/9/8/9;
+    grid-area: 2/8/2/8;
 }
 
 .borderNumber64 {
-    grid-area: 8/10/8/10;
+    grid-area: 2/9/2/9;
 }
 
 .borderNumber65 {
-    grid-area: 8/11/8/11;
+    grid-area: 2/10/2/10;
 }
 
 .borderNumber66 {
-    grid-area: 8/12/8/12;
+    grid-area: 2/11/2/11;
 }
 
 .borderNumber67 {
-    grid-area: 8/13/8/13;
+    grid-area: 2/12/2/12;
 }
 
 .borderNumber68 {
-    grid-area: 8/14/8/14;
+    grid-area: 2/13/2/13;
 }
 
 .borderNumber69 {
-    grid-area: 8/15/8/15;
+    grid-area: 2/14/2/14;
 }
 
 .borderNumber70 {
-    grid-area: 8/16/8/16;
+    grid-area: 2/15/2/15;
 }
 
 .borderNumber71 {
-    grid-area: 8/17/8/17;
+    grid-area: 2/16/2/16;
 }
 
 .borderNumber72 {
@@ -973,128 +998,145 @@
 
 .borderNumber87 {
     grid-area: 7/1/7/1;
+    margin-top: -0.5px;
 }
 
 .borderNumber88 {
     grid-area: 7/2/7/2;
+    margin-top: -0.5px;
 }
 
 .borderNumber89 {
-    grid-area: 9/3/9/3;
+    grid-area: 3/2/3/2;
 }
 
 .borderNumber90 {
-    grid-area: 9/4/9/4;
+    grid-area: 3/3/3/3;
 }
 
 .borderNumber91 {
-    grid-area: 9/5/9/5;
+    grid-area: 3/4/3/4;
 }
 
 .borderNumber92 {
-    grid-area: 9/6/9/6;
+    grid-area: 3/5/3/5;
 }
 
 .borderNumber93 {
-    grid-area: 9/7/9/7;
+    grid-area: 3/6/3/6;
 }
 
 .borderNumber94 {
-    grid-area: 9/8/9/8;
+    grid-area: 3/7/3/7;
 }
 
 .borderNumber95 {
-    grid-area: 9/9/9/9;
+    grid-area: 3/8/3/8;
 }
 
 .borderNumber96 {
-    grid-area: 9/10/9/10;
+    grid-area: 3/9/3/9;
 }
 
 .borderNumber97 {
-    grid-area: 9/11/9/11;
+    grid-area: 3/10/3/10;
 }
 
 .borderNumber98 {
-    grid-area: 9/12/9/12;
+    grid-area: 3/11/3/11;
 }
 
 .borderNumber99 {
-    grid-area: 9/13/9/13;
+    grid-area: 3/12/3/12;
 }
 
 .borderNumber100 {
-    grid-area: 9/14/9/14;
+    grid-area: 3/13/3/13;
 }
 
 .borderNumber101 {
-    grid-area: 9/15/9/15;
+    grid-area: 3/14/3/14;
 }
 
 .borderNumber102 {
-    grid-area: 9/16/9/16;
+    grid-area: 3/15/3/15;
 }
 
 .borderNumber103 {
-    grid-area: 9/17/9/17;
+    grid-area: 3/16/3/16;
 }
 
 .borderNumber104 {
     grid-area: 7/4/7/4;
+    margin-top: -0.5px;
 }
 
 .borderNumber105 {
     grid-area: 7/5/7/5;
+    margin-top: -0.5px;
 }
 
 .borderNumber106 {
     grid-area: 7/6/7/6;
+    margin-top: -0.5px;
 }
 
 .borderNumber107 {
     grid-area: 7/7/7/7;
+    margin-top: -0.5px;
 }
 
 .borderNumber108 {
     grid-area: 7/8/7/8;
+    margin-top: -0.5px;
 }
 
 .borderNumber109 {
     grid-area: 7/9/7/9;
+    margin-top: -0.5px;
 }
 
 .borderNumber110 {
     grid-area: 7/10/7/10;
+    margin-top: -0.5px;
 }
 
 .borderNumber111 {
     grid-area: 7/11/7/11;
+    margin-top: -0.5px;
 }
 
 .borderNumber112 {
     grid-area: 7/12/7/12;
+    margin-top: -0.5px;
 }
 
 .borderNumber113 {
     grid-area: 7/13/7/13;
+    margin-top: -0.5px;
 }
 
 .borderNumber114 {
     grid-area: 7/14/7/14;
+    margin-top: -0.5px;
 }
 
 .borderNumber115 {
     grid-area: 7/15/7/15;
+    margin-top: -0.5px;
 }
 
 .borderNumber116 {
     grid-area: 7/16/7/16;
+    margin-top: -0.5px;
 }
 
 .borderNumber117 {
     grid-area: 7/17/7/17;
+    margin-top: -0.5px;
 }
 
 .borderNumber118 {
     grid-area: 7/18/7/18;
+    margin-top: -0.5px;
 }
