@@ -1,26 +1,14 @@
 .trianglesGrid {
-    margin-left: 4%;
-    margin-top: -58.55%;
+    margin-left: 5%;
+    margin-top: -55.6%;
     display: inline-grid;
     font-size: 23px;
     color: #1d1f1c;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 800; 
-    grid-template-columns: repeat(18,45.6px); 
-    grid-template-rows: repeat(7,48.2px);
-}
-
-.trianglesGridF {
-    margin-left: 4%;
-    margin-top: 764%;
-    display: inline-grid;
-    font-size: 23px;
-    color: #1d1f1c;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 800; 
-    grid-template-rows: 30.2px 48.2px 48.2px;
-    grid-template-columns: 50px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 
-    45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 64.6px; 
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 
+    45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
+    grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 30.2px 48.2px 48.2px;
 }
 
 .copyright {
@@ -28,44 +16,46 @@
     font-size: 10px;
     text-align: right;
     margin-left: 0px;
-    margin-top: 230%;
     font-weight: 100;
-    grid-area: 7/17/7/19;
+    grid-area: 12/17/12/19;
 }
 
 .atomicNumberA {
     font-size: 12px;
     font-weight: 100;
-    grid-area: 2/4/2/4;
+    grid-area: 1/3/1/4;
     color: #fafafa;
-    margin-top: -12px;
+    margin-top: 20px;
+    margin-left: 37px;
 }
 
 .atomicNumberN {
     font-size: 12px;
     font-weight: 100;
-    grid-area: 2/4/2/4;
+    grid-area: 1/3/1/4;
     color: #fafafa;
-    margin-top: -1px;
-    margin-left: -5px;
+    margin-top: 33px;
+    margin-left: 30px;
 }
 
 .atomicSymbol {
     font-size: 12px;
     font-weight: 100;
-    grid-area: 3/4/3/4;
+    grid-area: 2/3/2/4;
     color: #fafafa;
     text-align: right;
-    margin-top: -25px;
-    margin-right: 10px;
+    margin-top: 8px;
+    margin-left: 38px;
 }
 
 .atomicName {
     font-size: 12px;
     font-weight: 100;
     text-align: left;
-    grid-area: 3/8/3/8;
+    grid-area: 2/8/2/8;
     color: #fafafa;
+    margin-top: 33.5px;
+    margin-left: -10.5px;
 }
 
 .atomicMass {
@@ -75,7 +65,8 @@
     text-align: right;
     grid-area: 3/4/3/4;
     color: #fafafa;
-    margin-top: 14px;
+    margin-top: 0px;
+    margin-left: -50px;
 }
 
 .number1H {
@@ -83,8 +74,8 @@
     font-size: 15px;
     transform: rotate(-45deg);
     color:#1d1f1c ;
-    margin-top: 30px;
-    margin-left: 8px;
+    margin-top: 16px;
+    margin-left: 2px;
     text-align: center;
 }
 
@@ -94,17 +85,8 @@
     width: 0;
     border: 12px solid transparent;
     transform: rotate(135deg);
-    margin-left: -3px;
-}
-
-.footerNumbers {
-    margin-top: 0%;
-    margin-left: 0%;
-}
-
-.footerANumbers {
-    margin-top: 0%;
-    margin-left: 0px;
+    margin-top: -24%;
+    margin-left: -26%;
 }
 
 .borderNonmetal {
@@ -129,14 +111,10 @@
 
 .borderLanthanide {
     border-top-color: #bae5dc;
-    margin-left: -10.5px;
-    margin-top: -11px;
 }
 
 .borderActinide {
     border-top-color: #f5b8c7;
-    margin-left: -10.5px;
-    margin-top: -10px;
 }
 
 .borderHalogen {
@@ -155,21 +133,17 @@
     font-size: 7px;
     transform: rotate(-42deg);
     color:#1d1f1c ;
-    margin-top: 9px;
-    margin-left: 4px;
+    margin-top: -3px;
+    margin-left: -4px;
     text-align: center;
     grid-template-rows: 30.2px 48.2px 48.2px;
 }
 
 .numbersL {
-    margin-top: -2px;
-    margin-left: -3px;
     text-align: center;
 }
 
 .numbersA {
-    margin-top: -2px;
-    margin-left: -3px;
     text-align: center;
 }
 
@@ -397,63 +371,63 @@
 }
 
 .number57 {
-    grid-area: 2/2/2/2;
+    grid-area: 9/3/9/3;
 }
 
 .number58 {
-    grid-area: 2/3/2/3;
+    grid-area: 9/4/9/4;
 }
 
 .number59 {
-    grid-area: 2/4/2/4;
+    grid-area: 9/5/9/5;
 }
 
 .number60 {
-    grid-area: 2/5/2/5;
+    grid-area: 9/6/9/6;
 }
 
 .number61 {
-    grid-area: 2/6/2/6;
+    grid-area: 9/7/9/7;
 }
 
 .number62 {
-    grid-area: 2/7/2/7;
+    grid-area: 9/8/9/8;
 }
 
 .number63 {
-    grid-area: 2/8/2/8;
+    grid-area: 9/9/9/9;
 }
 
 .number64 {
-    grid-area: 2/9/2/9;
+    grid-area: 9/10/9/10;
 }
 
 .number65 {
-    grid-area: 2/10/2/10;
+    grid-area: 9/11/9/11;
 }
 
 .number66 {
-    grid-area: 2/11/2/11;
+    grid-area: 9/12/9/12;
 }
 
 .number67 {
-    grid-area: 2/12/2/12;
+    grid-area: 9/13/9/13;
 }
 
 .number68 {
-    grid-area: 2/13/2/13;
+    grid-area: 9/14/9/14;
 }
 
 .number69 {
-    grid-area: 2/14/2/14;
+    grid-area: 9/15/9/15;
 }
 
 .number70 {
-    grid-area: 2/15/2/15;
+    grid-area: 9/16/9/16;
 }
 
 .number71 {
-    grid-area: 2/16/2/16;
+    grid-area: 9/17/9/17;
 }
 
 .number72 {
@@ -525,63 +499,63 @@
 }
 
 .number89 {
-    grid-area: 3/2/3/2;
+    grid-area: 10/3/10/3;
 }
 
 .number90 {
-    grid-area: 3/3/3/3;
+    grid-area: 10/4/10/4;
 }
 
 .number91 {
-    grid-area: 3/4/3/4;
+    grid-area: 10/5/10/5;
 }
 
 .number92 {
-    grid-area: 3/5/3/5;
+    grid-area: 10/6/10/6;
 }
 
 .number93 {
-    grid-area: 3/6/3/6;
+    grid-area: 10/7/10/7;
 }
 
 .number94 {
-    grid-area: 3/7/3/7;
+    grid-area: 10/8/10/8;
 }
 
 .number95 {
-    grid-area: 3/8/3/8;
+    grid-area: 10/9/10/9;
 }
 
 .number96 {
-    grid-area: 3/9/3/9;
+    grid-area: 10/10/10/10;
 }
 
 .number97 {
-    grid-area: 3/10/3/10;
+    grid-area: 10/11/10/11;
 }
 
 .number98 {
-    grid-area: 3/11/3/11;
+    grid-area: 10/12/10/12;
 }
 
 .number99 {
-    grid-area: 3/12/3/12;
+    grid-area: 10/13/10/13;
 }
 
 .number100 {
-    grid-area: 3/13/3/13;
+    grid-area: 10/14/10/14;
 }
 
 .number101 {
-    grid-area: 3/14/3/14;
+    grid-area: 10/15/10/15;
 }
 
 .number102 {
-    grid-area: 3/15/3/15;
+    grid-area: 10/16/10/16;
 }
 
 .number103 {
-    grid-area: 3/16/3/16;
+    grid-area: 10/17/10/17;
 }
 
 .number104 {
@@ -686,42 +660,34 @@
 
 .borderNumber11 {
     grid-area: 3/1/3/1;
-    margin-top: -0.5px;
 }
 
 .borderNumber12 {
     grid-area: 3/2/3/2;
-    margin-top: -0.5px;
 }
 
 .borderNumber13 {
     grid-area: 3/13/3/13;
-    margin-top: -0.5px;
 }
 
 .borderNumber14 {
     grid-area: 3/14/3/14;
-    margin-top: -0.5px;
 }
 
 .borderNumber15 {
     grid-area: 3/15/3/15;
-    margin-top: -0.5px;
 }
 
 .borderNumber16 {
     grid-area: 3/16/3/16;
-    margin-top: -0.5px;
 }
 
 .borderNumber17 {
     grid-area: 3/17/3/17;
-    margin-top: -0.5px;
 }
 
 .borderNumber18 {
     grid-area: 3/18/3/18;
-    margin-top: -0.5px;
 }
 
 .borderNumber19 {
@@ -877,63 +843,63 @@
 }
 
 .borderNumber57 {
-    grid-area: 2/2/2/2;
+    grid-area: 9/3/9/3;
 }
 
 .borderNumber58 {
-    grid-area: 2/3/2/3;
+    grid-area: 9/4/9/4;
 }
 
 .borderNumber59 {
-    grid-area: 2/4/2/4;
+    grid-area: 9/5/9/5;
 }
 
 .borderNumber60 {
-    grid-area: 2/5/2/5;
+    grid-area: 9/6/9/6;
 }
 
 .borderNumber61 {
-    grid-area: 2/6/2/6;
+    grid-area: 9/7/9/7;
 }
 
 .borderNumber62 {
-    grid-area: 2/7/2/7;
+    grid-area: 9/8/9/8;
 }
 
 .borderNumber63 {
-    grid-area: 2/8/2/8;
+    grid-area: 9/9/9/9;
 }
 
 .borderNumber64 {
-    grid-area: 2/9/2/9;
+    grid-area: 9/10/9/10;
 }
 
 .borderNumber65 {
-    grid-area: 2/10/2/10;
+    grid-area: 9/11/9/11;
 }
 
 .borderNumber66 {
-    grid-area: 2/11/2/11;
+    grid-area: 9/12/9/12;
 }
 
 .borderNumber67 {
-    grid-area: 2/12/2/12;
+    grid-area: 9/13/9/13;
 }
 
 .borderNumber68 {
-    grid-area: 2/13/2/13;
+    grid-area: 9/14/9/14;
 }
 
 .borderNumber69 {
-    grid-area: 2/14/2/14;
+    grid-area: 9/15/9/15;
 }
 
 .borderNumber70 {
-    grid-area: 2/15/2/15;
+    grid-area: 9/16/9/16;
 }
 
 .borderNumber71 {
-    grid-area: 2/16/2/16;
+    grid-area: 9/17/9/17;
 }
 
 .borderNumber72 {
@@ -998,145 +964,128 @@
 
 .borderNumber87 {
     grid-area: 7/1/7/1;
-    margin-top: -0.5px;
 }
 
 .borderNumber88 {
     grid-area: 7/2/7/2;
-    margin-top: -0.5px;
 }
 
 .borderNumber89 {
-    grid-area: 3/2/3/2;
+    grid-area: 10/3/10/3;
 }
 
 .borderNumber90 {
-    grid-area: 3/3/3/3;
+    grid-area: 10/4/10/4;
 }
 
 .borderNumber91 {
-    grid-area: 3/4/3/4;
+    grid-area: 10/5/10/5;
 }
 
 .borderNumber92 {
-    grid-area: 3/5/3/5;
+    grid-area: 10/6/10/6;
 }
 
 .borderNumber93 {
-    grid-area: 3/6/3/6;
+    grid-area: 10/7/10/7;
 }
 
 .borderNumber94 {
-    grid-area: 3/7/3/7;
+    grid-area: 10/8/10/8;
 }
 
 .borderNumber95 {
-    grid-area: 3/8/3/8;
+    grid-area: 10/9/10/9;
 }
 
 .borderNumber96 {
-    grid-area: 3/9/3/9;
+    grid-area: 10/10/10/10;
 }
 
 .borderNumber97 {
-    grid-area: 3/10/3/10;
+    grid-area: 10/11/10/11;
 }
 
 .borderNumber98 {
-    grid-area: 3/11/3/11;
+    grid-area: 10/12/10/12;
 }
 
 .borderNumber99 {
-    grid-area: 3/12/3/12;
+    grid-area: 10/13/10/13;
 }
 
 .borderNumber100 {
-    grid-area: 3/13/3/13;
+    grid-area: 10/14/10/14;
 }
 
 .borderNumber101 {
-    grid-area: 3/14/3/14;
+    grid-area: 10/15/10/15;
 }
 
 .borderNumber102 {
-    grid-area: 3/15/3/15;
+    grid-area: 10/16/10/16;
 }
 
 .borderNumber103 {
-    grid-area: 3/16/3/16;
+    grid-area: 10/17/10/17;
 }
 
 .borderNumber104 {
     grid-area: 7/4/7/4;
-    margin-top: -0.5px;
 }
 
 .borderNumber105 {
     grid-area: 7/5/7/5;
-    margin-top: -0.5px;
 }
 
 .borderNumber106 {
     grid-area: 7/6/7/6;
-    margin-top: -0.5px;
 }
 
 .borderNumber107 {
     grid-area: 7/7/7/7;
-    margin-top: -0.5px;
 }
 
 .borderNumber108 {
     grid-area: 7/8/7/8;
-    margin-top: -0.5px;
 }
 
 .borderNumber109 {
     grid-area: 7/9/7/9;
-    margin-top: -0.5px;
 }
 
 .borderNumber110 {
     grid-area: 7/10/7/10;
-    margin-top: -0.5px;
 }
 
 .borderNumber111 {
     grid-area: 7/11/7/11;
-    margin-top: -0.5px;
 }
 
 .borderNumber112 {
     grid-area: 7/12/7/12;
-    margin-top: -0.5px;
 }
 
 .borderNumber113 {
     grid-area: 7/13/7/13;
-    margin-top: -0.5px;
 }
 
 .borderNumber114 {
     grid-area: 7/14/7/14;
-    margin-top: -0.5px;
 }
 
 .borderNumber115 {
     grid-area: 7/15/7/15;
-    margin-top: -0.5px;
 }
 
 .borderNumber116 {
     grid-area: 7/16/7/16;
-    margin-top: -0.5px;
 }
 
 .borderNumber117 {
     grid-area: 7/17/7/17;
-    margin-top: -0.5px;
 }
 
 .borderNumber118 {
     grid-area: 7/18/7/18;
-    margin-top: -0.5px;
 }

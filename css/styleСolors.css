@@ -1,5 +1,6 @@
 .colors {
-    margin-top: -57.2%;
+    gap: 1/9/3/12;
+    margin-top: -52.6%;
     margin-left: 45.8%;
     background-color: black;
     width: 182px;
@@ -8,7 +9,7 @@
     color: #fafafa;
     font-size: 9.5px;
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 600;  
+    font-weight: 600;
     grid-template-columns: 106.2px 96.2px;
     grid-template-rows: 24.6px 24.6px 24.6px 24.6px 24.6px 21.6px;
 }

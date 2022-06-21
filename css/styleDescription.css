@@ -1,77 +1,80 @@
 .description {
-    margin-top: -57.2%;
+    margin-top: -54%;
     margin-left: 15.25%;
     background-color: black;
     width: 273.6px;
     height: 140px;
     display: inline-grid;
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px;
+    grid-template-rows: 48.2px 48.2px;
     color: #fafafa;
     gap: 40px 34px;
     font-size: 15px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-weight: 600;  
+    text-align: center;
 }
 
 .hrA {
-    margin-top: -244px;
+    margin-top: -62px;
     margin-left: 75px;
     font-size: 3px;
     color: #ffffff;
 }
 
 .circleA {
-    width: 2px;
-    height: 2px;
+    width: 3px;
+    height: 3px;
     background-color: #ffffff;
     border-radius: 50%;
-    margin-top: -402.5px;
-    margin-left: 93px;
+    margin-top: -149px;
+    margin-left: 91px;
 }
 
 .circleS {
-    width: 2px;
-    height: 2px;
+    width: 3px;
+    height: 3px;
     background-color: #ffffff;
     border-radius: 50%;
-    margin-top: -407.5px;
-    margin-left: 121.5px;
+    margin-top: -114px;
+    margin-left: 45px;
 }
 
 .circleN {
-    width: 2px;
-    height: 2px;
+    width: 3px;
+    height: 3px;
     background-color: #ffffff;
     border-radius: 50%;
-    margin-top: -421px;
-    margin-left: 169px;
+    margin-top: -86.5px;
+    margin-left: 14.9px;
 }
 
 .circleM {
-    width: 2px;
-    height: 2px;
+    width: 3px;
+    height: 3px;
     background-color: #ffffff;
     border-radius: 50%;
-    margin-top: -447.5px;
-    margin-left: 121.5px;
+    margin-top: -72px;
+    margin-left: -115px;
 }
 
 .hrS {
-    margin-top: -249px;
-    margin-left: 78px;
+    margin-top: -27px;
+    margin-left: 0px;
     font-size: 3px;
     color: #ffffff;
 }
 
 .hrN {
-    margin-top: -263px;
-    margin-left: 170px;
+    margin-top: 0px;
+    margin-left: 15px;
     font-size: 3px;
     color: #ffffff;
 }
 
 .hrM {
-    margin-top: -289px;
-    margin-left: 78px;
+    margin-top: 15px;
+    margin-left: -310px;
     font-size: 3px;
     color: #ffffff;
 }
@@ -80,30 +83,31 @@
     width: 90px;
     height: 95px;
     background-color: #c665c9;
-    margin-top: 6%;
-    margin-left: 36%;
+    margin-top: 45%;
+    margin-left: 220%;
     text-align: center;
 }
 
 .symbolH {
     font-size: 55px;
     color: #21271f;
-    margin-top: -47%;
-    margin-left: 46%;
+    margin-top: 57%;
+    margin-left: 106%;
+    text-align: center;
 }
 
 .nameH {
     font-size: 12px;
     color: #21271f;
-    margin-top: -39%;
-    margin-left: 43%;
+    margin-top: 185%;
+    margin-left: -150%;
     font-weight: 800;
 }
 
 .atomicMassH {
     font-size: 11px;
     color: #21271f;
-    margin-top: -49%;
-    margin-left: 47%;
+    margin-top: 215%;
+    margin-left: -500%;
     font-weight: 800;
 }
