@@ -4,10 +4,9 @@
     display: inline-grid;
     font-size: 23px;
     color: #1d1f1c;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 800; 
-    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 
-    45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    grid-template-columns: 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px 45.6px;
     grid-template-rows: 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 48.2px 30.2px 48.2px 48.2px;
 }
 
@@ -73,7 +72,7 @@
     grid-area: 1/5/1/5;
     font-size: 15px;
     transform: rotate(-45deg);
-    color:#1d1f1c ;
+    color: #1d1f1c;
     margin-top: 16px;
     margin-left: 2px;
     text-align: center;
@@ -132,7 +131,7 @@
 .numbers {
     font-size: 7px;
     transform: rotate(-42deg);
-    color:#1d1f1c ;
+    color: #1d1f1c;
     margin-top: -3px;
     margin-left: -4px;
     text-align: center;
@@ -278,6 +277,7 @@
 .number33 {
     grid-area: 4/15/4/15;
 }
+
 .number34 {
     grid-area: 4/16/4/16;
 }

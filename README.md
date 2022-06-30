@@ -9,8 +9,8 @@ The periodic table of the elements is a tabular display of the chemical elements
 ## How to run
 Open index.html in any browser.
 
-## Wireframing in Lucid.app
-![table](docs/table.jpeg)
-
 ## The final look
 ![finallook](docs/finallook.jpg)
+
+## Wireframing in Lucid.app
+![table](docs/table.jpeg)
