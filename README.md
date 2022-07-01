@@ -7,7 +7,7 @@ The periodic table of the elements is a tabular display of the chemical elements
 * CSS
   
 ## How to run
-Open index.html in any browser.
+Open `index.html` in any browser.
 
 ## The final look
 ![finallook](docs/finallook.jpg)
